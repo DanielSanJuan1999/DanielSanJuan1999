@@ -2,7 +2,6 @@
 - 👀 I’m interested in VideoGames and Programming
 - 🌱 I’m currently learning about SysAdmin and python
 
-<!---
-DanielSanJuan1999/DanielSanJuan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ES: este repositorio será usado para el desarrollo de frontend de una página que solicitó Bsale desarrollada sin framework.
+
+EN: This repository will be use to deploy the Frontend of a webpage that Bsale request me. Developed without framework
